@@ -1,6 +1,6 @@
 ﻿// taskmaxof2 найти максимум среди 2 чисел
 
-void maxNumbers(ref int n)//  - процедура
+void maxNumbers(ref int n)//  - процедура - ничего не возвращает
 {
     n = n + 10;  
 }
