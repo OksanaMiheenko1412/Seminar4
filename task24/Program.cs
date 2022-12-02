@@ -6,5 +6,5 @@
 // которое равно n, n - количество элементов 
 Console.Clear();
 Console.Write("Введите число: ");
-int n = Convert.ToInt32(Console.ReadLine());
+double n = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine($"Результат: {(n + 1)/2 * n}");
